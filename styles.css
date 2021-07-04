@@ -241,7 +241,7 @@ section .title::after {
 }
 
 .about .row .info h3 {
-  font-size: 2rem;
+  font-size: 23px;
   color: var(--yellow);
   padding: 1rem 0;
   font-weight: normal;
